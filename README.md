@@ -5,11 +5,9 @@ Shortcuts I frequently use:
 - Ctrl-V (paste)
 - Ctrl-Z (undo)
 
-Shortcuts I would like to start using: 
-- Ctrl-A (select all)
-- Win-D (show desktop)
-- Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
-- [CLI commands](docs/cli.md)
-Add a page about CLI commands
+# My Project
 
-This is done as part of lab6.
+This project demonstrates how to use Git and GitHub.
+
+For more information, check out:
+- [CLI commands](docs/cli.md)
