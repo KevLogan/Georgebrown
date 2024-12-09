@@ -5,9 +5,10 @@ Shortcuts I frequently use:
 - Ctrl-V (paste)
 - Ctrl-Z (undo)
 
-# My Project
+# My Awesome Project
 
-This project demonstrates how to use Git and GitHub.
+This project demonstrates how to use Git and GitHub for version control.
 
 For more information, check out:
+
 - [CLI commands](docs/cli.md)
