@@ -11,4 +11,3 @@ This project demonstrates how to use Git and GitHub.
 
 For more information, check out:
 - [CLI commands](docs/cli.md)
-
